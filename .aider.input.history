@@ -1,0 +1,170 @@
+
+# 2025-11-23 19:40:26.716054
++Code the following app
++```
++APP NAME: PONG
++
++DESCRIPTION: Classic Ping Pong game. 
++
++GAME LAYOUT
++
++Create a single-screen game.
++
++Game board: square shaped.
++
++Background color:  green.
++
++Ball: small white square.
++
++Player paddle: color dark purple, big wide rectangle on the left side of game board.
++
++Computer paddle: color dark purple, big wide rectangle on the right side of game board. 
++
++Everything sized proportionally so it fits on screen.
++
++Start Screen: Centered yellow rectangle button labeled “Start Game”.
++
++Only show this button before play begins.
++
++PLAYER PADDLE CONTROLS:
++
++Place these below the game board.
++
++One Up Arrow button.
++
++One Down Arrow button.
++
++Button are rectangle shaped.
++When pressed, they should immediately move the player paddle  up or down very extremely fast.
++
++Computer paddle behavior:
++Paddle movement extremely fast.
++Always have the computer paddle return ball back to player.
++
++BALL PHYSICS
++
++Ball rules:
++
++Starts centered
++
++Moves diagonally
++
++On paddle collision return ball horizontally and diagonally to the other direction.
++
++Ball Speed:  extremely slow
++Keep the movement smooth. 
++
++Do NOT end game on paddle collision. 
++Game ends only when:
++The ball goes fully past a paddle.
++
++When this happens:
++
++Stop the ball movement.
++
++Show a “Try Again” button below the board.
++
++Score = number of paddle hits during the round.
++
++After game ends, display score.
++
++RESET BEHAVIOR.
++
++When Try Again is pressed:
++
++Reset ball to center.
++
++Reset score to 0.
++
++Show “Start Game” button again
++
++Hide “Try Again” button
++
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-23 19:40:26.716591
++Code the following app
++```
++APP NAME: PONG
++
++DESCRIPTION: Classic Ping Pong game. 
++
++GAME LAYOUT
++
++Create a single-screen game.
++
++Game board: square shaped.
++
++Background color:  green.
++
++Ball: small white square.
++
++Player paddle: color dark purple, big wide rectangle on the left side of game board.
++
++Computer paddle: color dark purple, big wide rectangle on the right side of game board. 
++
++Everything sized proportionally so it fits on screen.
++
++Start Screen: Centered yellow rectangle button labeled “Start Game”.
++
++Only show this button before play begins.
++
++PLAYER PADDLE CONTROLS:
++
++Place these below the game board.
++
++One Up Arrow button.
++
++One Down Arrow button.
++
++Button are rectangle shaped.
++When pressed, they should immediately move the player paddle  up or down very extremely fast.
++
++Computer paddle behavior:
++Paddle movement extremely fast.
++Always have the computer paddle return ball back to player.
++
++BALL PHYSICS
++
++Ball rules:
++
++Starts centered
++
++Moves diagonally
++
++On paddle collision return ball horizontally and diagonally to the other direction.
++
++Ball Speed:  extremely slow
++Keep the movement smooth. 
++
++Do NOT end game on paddle collision. 
++Game ends only when:
++The ball goes fully past a paddle.
++
++When this happens:
++
++Stop the ball movement.
++
++Show a “Try Again” button below the board.
++
++Score = number of paddle hits during the round.
++
++After game ends, display score.
++
++RESET BEHAVIOR.
++
++When Try Again is pressed:
++
++Reset ball to center.
++
++Reset score to 0.
++
++Show “Start Game” button again
++
++Hide “Try Again” button
++
++```
++
++Generate an app logo and update the app metadata title and description.
